@@ -21,7 +21,7 @@ Below is the steps to install the project
 3. Create '.env' file & add below Environment variable in it
 
     VUE_APP_API_BASE_URL=<API_BASE_URL>/api
-    VUE_APP_NAME="Book Store Management"
+    VUE_APP_NAME="Book Management"
     VUE_APP_ADMIN_API_URL="${VUE_APP_API_BASE_URL}/admin"
     VUE_APP_FRONTEND_API_URL="${VUE_APP_API_BASE_URL}"
 

@@ -12,7 +12,7 @@ Below is the steps to install the project
 
 1. Clone the project
 
-  git clone https://github.com/ronaksolanki10/interview_packt_frontend.git
+  git clone https://github.com/sachin-hadola/frontend_packt.git
 
 2. Install dependencies
 

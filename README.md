@@ -1,4 +1,3 @@
-
 # Packt Assessment (Customer)
 
 A project is about to build a Backend for the bookstore where admin can add, edit, delete the books and customers can search for a book and see the whole details about the book
